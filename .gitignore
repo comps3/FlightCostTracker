@@ -5,6 +5,10 @@ target/
 mvnw
 mvnw.cmd
 
+# IntelliJ files #
+.idea/
+FlightCostTracker.iml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
